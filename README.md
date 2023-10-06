@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://github.com/georgosgeorgos/trajectory-alignment-diffusion/blob/main/assets/trajectory_matching_general.png" width="600px" alt="teaser" >
-<!--   <img src="https://github.com/georgosgeorgos/trajectory-alignment-diffusion/blob/main/assets/trajectory_alignment_search_matching.png" width="800px" alt="teaser" > -->
 </p>
 
 This repo contains code and experiments for:
@@ -56,8 +55,9 @@ The code has been tested on Ubuntu 20.04, Pytorch 1.13, and CUDA 11.6
 ---------
 ## Dataset
 
-
-* coming soon
+<p align="center">
+  <img src="https://github.com/georgosgeorgos/trajectory-alignment-diffusion/blob/main/assets/256_optimized.png" width="800px" alt="teaser" >
+</p>
 
 ---------
 
