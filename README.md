@@ -55,6 +55,8 @@ The code has been tested on Ubuntu 20.04, Pytorch 1.13, and CUDA 11.6
 ---------
 ## Dataset
 
+* 2d topology optimization dataset 64x64 - [here](https://github.com/georgosgeorgos/trajectory-alignment-diffusion/releases/download/2d-to-64x64/DATASET_TOPOLOGY_64_INTERMEDIATE_v1.zip)
+
 <p align="center">
   <img src="https://github.com/georgosgeorgos/trajectory-alignment-diffusion/blob/main/assets/256_optimized.png" width="800px" alt="teaser" >
 </p>
