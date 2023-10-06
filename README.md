@@ -15,7 +15,7 @@ This repo contains code and experiments for:
 > [Giorgio Giannone](https://georgosgeorgos.github.io/), [Akash Srivastava](https://akashgit.github.io), [Ole Winther](https://olewinther.github.io), [Faez Ahmed](https://meche.mit.edu/people/faculty/faez@MIT.EDU)  
 > Conference on Neural Information Processing Systems (NeurIPS), 2023
 
-[[paper](https://arxiv.org/abs/2301.12586)]
+[[paper](https://arxiv.org/abs/2305.18470)]
 [[code](https://github.com/georgosgeorgos/trajectory-alignment-diffusion/)]
 
 > **Diffusing the Optimal Topology: A Generative Optimization Approach**   
@@ -29,7 +29,7 @@ This repo contains code and experiments for:
 
 <p align="center">
     <img src="https://github.com/georgosgeorgos/trajectory-alignment-diffusion/blob/main/assets/hist_compliance_in_distro.png" width="400px" alt="teaser" >
-    <img src="https://github.com/georgosgeorgos/trajectory-alignment-diffusion/blob/main/assets/consistency_benchmark_tm.png" width="600px" alt="teaser" >
+    <img src="https://github.com/georgosgeorgos/trajectory-alignment-diffusion/blob/main/assets/consistency_benchmark_tm.png" width="400px" alt="teaser" >
 </p>
 
 <p align="center">
