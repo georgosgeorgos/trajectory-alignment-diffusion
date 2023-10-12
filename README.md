@@ -16,6 +16,8 @@ This repo contains code and experiments for:
 
 [[paper](https://arxiv.org/abs/2305.18470)]
 [[code](https://github.com/georgosgeorgos/trajectory-alignment-diffusion/)]
+[[page](https://decode.mit.edu/projects/trajectory-alignment-diffusion/)]
+
 
 > **Diffusing the Optimal Topology: A Generative Optimization Approach**   
 > [Giorgio Giannone](https://georgosgeorgos.github.io/), [Faez Ahmed](https://meche.mit.edu/people/faculty/faez@MIT.EDU)  
